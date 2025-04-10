@@ -8,16 +8,6 @@ The goal is to evaluate the ability to:
 - Perform advanced data analysis
 - Build robust predictive models for anomaly detection
 
-## Project Structure
-project/
-├── data/ # Contains dataset files
-├── notebooks/ # Jupyter notebooks with analysis and models
-│ └── anomaly_detection.ipynb # Main notebook with solution
-├── models/ # Saved model files
-├── README.md # This file
-└── requirements.txt # Python dependencies
-
-
 ## Key Features
 - Comprehensive data exploration and preprocessing
 - Feature engineering and correlation analysis
